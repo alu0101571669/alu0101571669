@@ -1,4 +1,3 @@
-## Hi there 👋
 <h2 align="left">Hi 👋! My name is Franco</h2>
 
 ###
