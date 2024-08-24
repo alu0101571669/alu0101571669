@@ -2,7 +2,13 @@
 
 ###
 
-<img align="left" height="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"  />
+<h3 align="left">Currently learning about c++ and Python</h3>
+
+###
+
+<div align="center">
+  <img height="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif"  />
+</div>
 
 ###
 
@@ -30,7 +36,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/frannelfran/frannelfran/output/snake.svg" alt="Snake animation" />
+<h4 align="left">You can contact me at frannelfran@gmail.com ✍🏻✉️</h4>
 
 ###
 
