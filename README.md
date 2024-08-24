@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Currently learning about c++ and Python</h2>
+<h3 align="left">Currently learning about c++ and Python</h3>
 
 ###
 
@@ -24,6 +24,10 @@
 
 ###
 
+<h2 align="left">Languages</h2>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
   <img width="12" />
@@ -35,8 +39,12 @@
 ###
 
 <div align="center">
-  <img height="597" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frannelfran&radius=15&theme=nord&area=true&order=5&hide_border=true" height="350" alt="activity-graph graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/frannelfran/frannelfran/output/snake.svg" alt="Snake animation" />
 
 ###
 
