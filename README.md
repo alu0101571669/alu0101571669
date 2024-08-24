@@ -1,8 +1,12 @@
-<h2 align="left">Hi 👋! My name is Franco</h2>
+<h1 align="left">Hi 👋! My name is Franco</h1>
 
 ###
 
-<h3 align="left">Currently learning about c++ and Python</h3>
+<h2 align="left">Currently learning about c++ and Python</h2>
+
+###
+
+<h4 align="left">You can contact me at frannelfran@gmail.com ✍🏻✉️</h4>
 
 ###
 
@@ -33,10 +37,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
 </div>
-
-###
-
-<h4 align="left">You can contact me at frannelfran@gmail.com ✍🏻✉️</h4>
 
 ###
 
