@@ -1,70 +1,31 @@
-<h1 align="left">Hi 👋! My name is Franco</h1>
+<h1 align="center">Hi 👋, I'm Franco</h1>
+<h3 align="center">Building innovative solutions with clean and efficient code</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=frannelfran&label=Profile%20views&color=0e75b6&style=flat" alt="frannelfran" /> </p>
 
-<h3 align="left">Currently learning about c++ and Python 💻</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frannelfran" alt="frannelfran" /></a> </p>
 
-###
+<p align="left"> <a href="https://twitter.com/frannelfran" target="blank"><img src="https://img.shields.io/twitter/follow/frannelfran?logo=twitter&style=for-the-badge" alt="frannelfran" /></a> </p>
 
-<h4 align="left">You can contact me at frannelfran@gmail.com ✍🏻✉️</h4>
+- 🔭 I’m currently working on **c++**
 
-###
+- 🌱 I’m currently learning **c++ and Python**
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=frannelfran.frannelfran&left_color=cornflowerblue&right_color=darkgray"  />
-</div>
+- 📫 How to reach me **frannelfran@gmail.com**
 
-###
+- ⚡ Fun fact **I think I am Funny**
 
-<h2 align="left">Trophies</h2>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/frannelfran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frannelfran" height="30" width="40" /></a>
+<a href="https://instagram.com/frannelfran_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frannelfran_" height="30" width="40" /></a>
+</p>
 
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=frannelfran&theme=discord&column=-1&row=1&margin-w=9&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frannelfran&show_icons=true&locale=en&layout=compact" alt="frannelfran" /></p>
 
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frannelfran&show_icons=true&locale=en" alt="frannelfran" /></p>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=frannelfran&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=frannelfran&locale=en&mode=weekly&theme=blueberry&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frannelfran&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false" height="115" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="left">Languages and Tools</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=frannelfran&radius=15&theme=nord&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<h2 align="left">Social Media</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/frannalpes_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://x.com/Frannelfran" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
-  </a>
-</div>
-
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frannelfran&" alt="frannelfran" /></p>
