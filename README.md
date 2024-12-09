@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **c++**
 
-- 🌱 I’m currently learning **c++ and Python**
+- 🌱 I’m currently learning **C++ and Python**
 
 - 📫 How to reach me **frannelfran@gmail.com**
 
