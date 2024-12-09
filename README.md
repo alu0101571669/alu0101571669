@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/frannelfran" target="blank"><img src="https://img.shields.io/twitter/follow/frannelfran?logo=twitter&style=for-the-badge" alt="frannelfran" /></a> </p>
 
-- 🔭 I’m currently working on **c++**
+- 🔭 I’m currently working on **C++**
 
 - 🌱 I’m currently learning **C++ and Python**
 
